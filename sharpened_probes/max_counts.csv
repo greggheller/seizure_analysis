@@ -1,0 +1,15 @@
+,Description,None,Miniscule,Mild,Moderate,Severe
+0,probe A sharpened,18,4,3,1,3
+1,probe A unsharpened,9,1,6,3,3
+2,probe B sharpened,18,4,3,2,2
+3,probe B unsharpened,14,1,2,2,3
+4,probe C sharpened,17,3,3,0,2
+5,probe C unsharpened,18,2,1,1,4
+6,probe D sharpened,15,5,3,3,3
+7,probe D unsharpened,9,2,5,2,4
+8,probe E sharpened,15,5,3,1,1
+9,probe E unsharpened,9,8,1,4,4
+10,probe F sharpened,19,3,2,0,1
+11,probe F unsharpened,18,4,3,0,0
+12,All Sharpened Probes,102,24,17,7,12
+13,All Unsharpened Probes,77,18,18,12,18
